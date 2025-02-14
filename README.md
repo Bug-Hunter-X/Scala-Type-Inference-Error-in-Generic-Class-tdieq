@@ -1,0 +1,1 @@
+This repository demonstrates a common type inference issue in Scala. The `MyClass` class is generic and requires a type parameter `T`, but when an instance is created without specifying the type parameter, a compile-time error occurs. The solution provides a way to address this by explicitly specifying the type parameter.
